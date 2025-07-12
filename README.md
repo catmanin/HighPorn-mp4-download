@@ -42,8 +42,7 @@ HighPorn Video Link Extractor (Save as MP4 Format)
 
 
 ```
-🎬 视频链接已检测，可手动下载...
-[视频链接] [请右键单击链接另存为...]
+🎬 视频链接已检测，可手动下载...[视频链接] [请右键单击链接另存为...]
 ```
 
 
@@ -61,8 +60,6 @@ See the header in `highporn-download.user.js`
 
 ```
 https://github.com/catmanin/HighPorn-mp4-download/blob/main/highporn-download.user.js
-
-
 ---
 
 # HighPorn 视频链接提取功能预览  
