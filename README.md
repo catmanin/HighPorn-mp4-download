@@ -1,5 +1,4 @@
-# HighPorn 视频链接提取（另存为 MP4 格式）  
-HighPorn Video Link Extractor (Save as MP4 Format)
+# HighPorn 视频链接提取（另存为 MP4 格式）|  HighPorn Video Link Extractor (Save as MP4 Format)
 
 > 🛠 一款适用于 [highporn.net](https.highporn.net/video/...) 视频页面的 Tampermonkey 脚本，  
 > 自动提取当前视频播放地址，生成“另存为”提示按钮，方便用户下载 MP4 视频。  
@@ -53,11 +52,9 @@ https://github.com/catmanin/HighPorn-mp4-download/blob/main/highporn-download.us
 
 ---
 
-# HighPorn 视频链接提取功能预览  
-HighPorn Video Link Extractor Preview
+# HighPorn 视频链接提取功能预览 | HighPorn Video Link Extractor Preview
 
-下面是功能预览截图：  
-Below is the feature preview screenshot:
+下面是功能预览截图：  Below is the feature preview screenshot:
 
 ![功能预览](https://raw.githubusercontent.com/catmanin/HighPorn-mp4-download/refs/heads/main/%E5%8A%9F%E8%83%BD%E9%A2%84%E8%A7%88.png)
 
