@@ -33,6 +33,13 @@
 ```
 https://github.com/catmanin/HighPorn-mp4-download/blob/main/highporn-download.user.js
 ```
+# HighPorn 视频链接提取
+
+下面是功能预览截图：
+
+![功能预览](https://raw.githubusercontent.com/catmanin/HighPorn-mp4-download/refs/heads/main/%E5%8A%9F%E8%83%BD%E9%A2%84%E8%A7%88.png)
+
+如上图所示，脚本会在视频页面自动插入下载链接和提示按钮。
 
 ## 🧾 LICENSE
 
